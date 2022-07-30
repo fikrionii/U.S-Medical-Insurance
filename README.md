@@ -2,7 +2,7 @@
 
 This repository is part of portfolio project for Codecademy's Data Scientist: Analytics Specialy Career Path
 
-<img src="https://github.com/fikrionii/Hurricane-Analysis/blob/main/hurricane_img.jpg" width="550" height="300" />
+<img src="https://github.com/fikrionii/U.S-Medical-Insurance/blob/main/health-insurance-img.jpg" width="550" height="300" />
 
 ## Project Goals
 
